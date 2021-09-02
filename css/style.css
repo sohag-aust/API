@@ -1,0 +1,10 @@
+.title-style {
+    text-shadow: 2px 2px #eaec40; 
+}
+
+.card-style {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #807f7f;
+    margin-bottom: 10px;
+}
